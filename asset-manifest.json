@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.9a36161c.css",
+    "main.js": "/React-Portfolio/static/js/main.02fdd81c.js",
+    "static/media/Git-There.jpg": "/React-Portfolio/static/media/Git-There.3de799006b960f1f0f78.jpg",
+    "static/media/kineticTickets.jpg": "/React-Portfolio/static/media/kineticTickets.218f50260b9d12e4f007.jpg",
+    "static/media/profilePic.jpg": "/React-Portfolio/static/media/profilePic.6f4e67f4a71ede6bed1c.jpg",
+    "static/media/Easter-Egg.jpg": "/React-Portfolio/static/media/Easter-Egg.fbf51c158d32ed821666.jpg",
+    "static/media/Weather-Dashboard.jpg": "/React-Portfolio/static/media/Weather-Dashboard.597751451cdb0ddc7ee2.jpg",
+    "static/media/Tech-Blog.jpg": "/React-Portfolio/static/media/Tech-Blog.d0a8e42175137535be08.jpg",
+    "static/media/Coding-Quiz.jpg": "/React-Portfolio/static/media/Coding-Quiz.6ff86d561fb10370ce36.jpg",
+    "static/media/Note-Taker.jpg": "/React-Portfolio/static/media/Note-Taker.2ce28b5de6b437914e40.jpg",
+    "static/media/Password-Generator.jpg": "/React-Portfolio/static/media/Password-Generator.f8afea3bd80908089e95.jpg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.9a36161c.css.map": "/React-Portfolio/static/css/main.9a36161c.css.map",
+    "main.02fdd81c.js.map": "/React-Portfolio/static/js/main.02fdd81c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a36161c.css",
+    "static/js/main.02fdd81c.js"
+  ]
+}
