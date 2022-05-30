@@ -19,7 +19,6 @@ export default function Resume() {
                     <li>React</li>
                     <li>Bootstrap</li>
                     <li>SASS</li>
-                    <li>WordPress</li>
                 </ul>
                 <h3>Back-end Proficiencies</h3>
                 <ul>
@@ -31,17 +30,8 @@ export default function Resume() {
                     <li>REST</li>
                     <li>MERN Stack</li>
                 </ul>
-                <h3>Additional Skills</h3>
-                <ul>
-                    <li>Photoshop</li>
-                    <li>Illustrator</li>
-                    <li>Figma</li>
-                    <li>Angular</li>
-                    <li>PHP</li>
-                    <li>ExpressionEngine</li>
-                </ul>
                 <p className="text-center">
-                   <a href="https://my.indeed.com/p/christopherp-vy7f4y9" className="text-faded white-link">View Resume</a>
+                   <a href="https://my.indeed.com/p/christopherp-vy7f4y9" className="indeed">View Resume</a>
                 </p>
             </div>
         </div>

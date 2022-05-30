@@ -43,7 +43,7 @@ function Portfolio() {
     ]);
 
     return (
-        <section className="p-0">
+        <section className="portfolio p-0">
             <div className="container-fluid p-0">
                 <h1 className="text-center margin-top">{capitalizeFirstLetter(currentPage.name)}</h1>
                 <hr className="my-4" />

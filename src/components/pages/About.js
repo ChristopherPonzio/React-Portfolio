@@ -3,7 +3,7 @@ import '../../assets/styles/About.css';
 
 export default function About() {
   return (
-    <div>
+    <div className= "about">
       <h1>About Page</h1>
       <p>
         My name is Christopher Ponzio. I work for Georgia Cyber Academy.
