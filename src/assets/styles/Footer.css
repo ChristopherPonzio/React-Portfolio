@@ -1,0 +1,21 @@
+.footer {
+    background-color: aqua;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+   height: 10%;
+}
+.back-to-top {
+    color:red;
+    display: flex;
+    justify-content: center;
+}
+.social-links {
+    display: flex;
+    justify-content: center;
+}
+.fa {
+    color: red;
+    padding: .2em;
+    margin-left: 5px;
+}

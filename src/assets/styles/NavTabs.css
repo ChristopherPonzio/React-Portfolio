@@ -1,0 +1,15 @@
+.navbar {
+    display: flex;
+    background-color: aquamarine;
+}
+
+.name {
+    margin-left: 2%;
+    font-size: 46px;
+}
+
+.nav {
+    justify-content: right;
+    margin-right: 2%;
+}
+
