@@ -3,20 +3,49 @@ import '../../assets/styles/Resume.css';
 
 export default function Resume() {
   return (
-    <div>
-      <h1>Resume</h1>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
-      </p>
+    <section className="resume">
+    <div className="container">
+        <div className="row">
+            <div className="col-lg-10 mx-auto mb-4">
+                <h1 className="text-center">Resume</h1>
+                <hr className="light my-4" />
+                <h3>Front-end Proficiencies</h3>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                    <li>jQuery</li>
+                    <li>Git</li>
+                    <li>React</li>
+                    <li>Bootstrap</li>
+                    <li>SASS</li>
+                    <li>WordPress</li>
+                </ul>
+                <h3>Back-end Proficiencies</h3>
+                <ul>
+                    <li>APIs</li>
+                    <li>Node</li>
+                    <li>Express</li>
+                    <li>MySQL, Sequelize, SQLite</li>
+                    <li>MongoDB, Mongoose</li>
+                    <li>REST</li>
+                    <li>MERN Stack</li>
+                </ul>
+                <h3>Additional Skills</h3>
+                <ul>
+                    <li>Photoshop</li>
+                    <li>Illustrator</li>
+                    <li>Figma</li>
+                    <li>Angular</li>
+                    <li>PHP</li>
+                    <li>ExpressionEngine</li>
+                </ul>
+                <p className="text-center">
+                   <a href="https://my.indeed.com/p/christopherp-vy7f4y9" className="text-faded white-link">View Resume</a>
+                </p>
+            </div>
+        </div>
     </div>
+</section>
   );
 }
