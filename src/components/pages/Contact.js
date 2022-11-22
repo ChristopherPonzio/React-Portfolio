@@ -103,7 +103,6 @@ function Contact() {
                         </form>
                     
                         <h4>
-                            Christopher Ponzio <br />
                             Or email me at:  <a href="mailto:chrisponz11@gmail.com"> chrisponz11@gmail.com</a>
                         </h4>
                     </div>

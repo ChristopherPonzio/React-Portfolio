@@ -1,7 +1,8 @@
 .navbar {
     display: flex;
-    background-color: aquamarine;
+    background-color: lightgrey;
     height: 10%;
+    box-shadow: 3px 3px 5px rgba(0,0,0,.8);
 }
 
 .name {
@@ -12,5 +13,10 @@
 .nav {
     justify-content: right;
     margin-right: 2%;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,.8);
 }
 
+.nav-link{
+    color: black !important;
+    box-shadow: 1px 1px 1px 1px rgba(.8,.8,.8,.8);
+    }

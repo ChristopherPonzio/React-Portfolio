@@ -8,6 +8,9 @@ export default function Resume() {
         <div className="row">
             <div className="col-lg-10 mx-auto mb-4">
                 <h1 className="text-center">Resume</h1>
+                <p className="text-center">
+                   <a href="https://my.indeed.com/p/christopherp-vy7f4y9" className="indeed">View Resume</a>
+                </p>
                 <hr className="light my-4" />
                 <h3>Front-end Proficiencies</h3>
                 <ul>
@@ -30,9 +33,6 @@ export default function Resume() {
                     <li>REST</li>
                     <li>MERN Stack</li>
                 </ul>
-                <p className="text-center">
-                   <a href="https://my.indeed.com/p/christopherp-vy7f4y9" className="indeed">View Resume</a>
-                </p>
             </div>
         </div>
     </div>

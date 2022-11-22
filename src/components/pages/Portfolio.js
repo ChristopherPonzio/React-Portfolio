@@ -11,6 +11,23 @@ function Portfolio() {
     const [currentPage] = useState(pages[0]);
     const [projects] = useState([
         {
+            name: 'Canvas-class-cancel',
+            link: "",
+            repo: "",
+            note: "The source code and live url of this project are Private."
+        },
+        {
+            name: 'Canvas-Schedule',
+            link: "",
+            repo: "",
+            note: "The source code and live url of this project are Private."
+        },
+        {
+            name: 'kineticTickets',
+            link: "https://evening-tor-60812.herokuapp.com/",
+            repo: "https://github.com/mblackwellgca/Kinetic-Tickets"
+        },
+        {
             name: 'Git-There',
             link: "https://christopherponzio.github.io/Git-There-Project",
             repo: "https://github.com/ChristopherPonzio/Git-There-Project"
@@ -26,6 +43,11 @@ function Portfolio() {
             repo: "https://github.com/ChristopherPonzio/Tech-Blog"
         },
         {
+            name: 'Password-Generator',
+            link: "https://christopherponzio.github.io/Password-Generator",
+            repo: "https://github.com/ChristopherPonzio/Password-Generator"
+        },
+        {
             name: 'Note-Taker',
             link: "https://stark-dawn-28882.herokuapp.com",
             repo: "https://github.com/ChristopherPonzio/noteTaker"
@@ -36,9 +58,10 @@ function Portfolio() {
             repo: "https://github.com/ChristopherPonzio/Weather-Dashboard"
         },
         {
-            name: 'Password-Generator',
-            link: "https://christopherponzio.github.io/Password-Generator",
-            repo: "https://github.com/ChristopherPonzio/Password-Generator"
+            name: 'DashboardGrades',
+            link: "",
+            repo: "",
+            note: "The source code and live url of this project are Private."
         },
     ]);
 
