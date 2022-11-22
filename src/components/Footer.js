@@ -3,12 +3,12 @@ import '../assets/styles/Footer.css';
 
 function Footer() {
     return (
-    <footer class="footer navbar-static-bottom">
-      <div class="container">
-        <a rel="noreferrer" href="#top" class="back-to-top">
-          <i class="fa fa-angle-up fa-2x" aria-hidden="true"></i>
+    <footer className="footer navbar-static-bottom">
+      <div className="container">
+        <a rel="noreferrer" href="#top" className="back-to-top">
+          <i className='fa fa-angle-up fa-2x' aria-hidden="true"></i>
         </a>
-        <div class="social-links">
+        <div className="social-links">
           <a rel="noreferrer" href="#!" target="_blank">
             <i className="fa fa-twitter fa-inverse fa-2x" />
           </a>

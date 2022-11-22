@@ -1,18 +1,27 @@
 import React from 'react';
 import '../../assets/styles/About.css';
+import '../../assets/img/2020profilepic.jpg';
 
 export default function About() {
   return (
-    <div className= "about">
-      <h1>About Page</h1>
-      <p>
-        My name is Christopher Ponzio. I work for Georgia Cyber Academy.
-        I have a beautiful wife named Michelle. An incredible dog named Dutchess.
-        A loving cat named Mr Lover. And a huntress of a cat named Pepper.
+    <div className= "aboutContainer">
+      <h1 className = "title">About Me</h1>
+      <div className = "imgContainer">
+        <img 
+        className = "profileImg"
+        alt = "Profile"
+        src ={require(`../../assets/img/2020profilepic.jpg`)}>
+        </img>
+      </div>
+      <p id = "mainP">
+      Hi, my name is Christopher Ponzio
+                I am a Full Stack Developer with 2+ years experience working with JavaScript, HTML/CSS, RESTful APIs, JQuery,
+                and React to build exceptional customer experiences. Highly adept at working independently and in a collaborative work environment 
+                - finding solutions and determining customer satisfaction. Passionate about using programming to deliver an immersive and engaging 
+                user experience through efficient web development, proactive feature optimization, and relentless debugging!
       </p>
-      <p>
-      I am currently enrolled in a Coding Boot Camp where I have learned the fundamentals of HTML, CSS, Javascript,
-      Sequel, Node.js.
+      <p id = "secondP">
+      
       </p>
     </div>
   );

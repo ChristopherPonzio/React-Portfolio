@@ -16,11 +16,11 @@ function Project({ project }) {
 			/>
 			<div className="portfolio-box-caption">
 				<div className="portfolio-box-caption-content">
-				<a href={repo} className="project-category text-faded" target="_blank">
+				<a href={repo} className="project-category text-faded" target="_blank" rel="noreferrer">
 						<i className="fab fa-github fa-2x"></i>
 					</a>
 					<br />
-					<a href={link} className="project-category text-faded" target="_blank">{removeHyphensAndCapitalize(name)}</a>{' '}
+					<a href={link} className="project-category text-faded" target="_blank" rel="noreferrer">{removeHyphensAndCapitalize(name)}</a>{' '}
 				</div>
 			</div>
 		</div>

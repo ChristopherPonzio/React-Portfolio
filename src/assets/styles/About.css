@@ -1,11 +1,26 @@
-.about {
+html, body, main,#app, #app>div {
     background-color: rgb(0, 162, 255);
+  }
+.aboutContainer{
+    background-color: rgb(0, 162, 255);
+    height: 100%;
 }
-h1 {
+
+.title{
     text-align: center;
 }
-p {
-    
+
+.imgContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.profileImg{
+    height: 25%;
+    width: 25%;
+}
+
+p{
     text-align: center;
     margin-left: 2%;
     margin-right: 2%;
