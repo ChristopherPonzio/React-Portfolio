@@ -8,7 +8,7 @@ To install this React Portfolio Template you can copy this repository and run NP
 
 ## Usage
 The React Portfolio Template can be used to show off your own projects wether it be photography, coding, sports, art, etc. Just install this template and add your images to the images folder and save the name to the project file. 
-![Demo Screenshot](./src/assets/img/React-Portfolio.jpg)
+![Demo Screenshot](./src/assets/img/portfolio/React-Portfolio.jpg)
 
 ## Credits
  * Mickelle Blackwell
