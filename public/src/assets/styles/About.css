@@ -1,0 +1,51 @@
+html, body, main, .body, #app, #app>div {
+    background-color: aliceblue;
+  }
+
+.cont{
+    background-color: aliceblue;
+}
+.name {
+    margin-top: 2rem;
+    margin-left: 40%;
+    font-size: 46px;
+    text-decoration: underline;
+}
+.aboutContainer{
+    display: flex;
+    margin-top: 2rem;
+}
+.imgContainer{
+    margin-top: 2%;
+    margin-left: 8%;
+    height: 30%;
+    width: 30%;
+}
+.profileImg{  
+    height: 92%;
+    width: 94%;
+    margin: 2%;  
+    border-bottom-left-radius:20px 500px;
+    border-bottom-right-radius: 500px 30px;
+    border-top-right-radius: 5px 100px;
+    box-shadow:3px 3px 5px rgba(0,0,0,.8);
+}
+.aboutMeContainer{
+    margin-top: 8rem;
+    display: inline;
+    width: 50%;
+    margin-left:2%;
+}
+
+.title{
+    margin-top: 2%;
+    text-align: center;
+}
+p{
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+h6{
+    text-align: center;
+}

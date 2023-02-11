@@ -1,0 +1,16 @@
+.navbar {
+    background-color: aliceblue;
+    height: 10%;
+   
+}
+.nav-tabs {
+    margin-left: 75%;
+    top: 2rem;
+    margin-right: 2%;
+   
+}
+
+.nav-link{
+    color: black !important;
+    box-shadow: 1px 1px 1px 1px rgba(.8,.8,.8,.8);
+    }
