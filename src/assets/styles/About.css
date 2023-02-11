@@ -1,15 +1,19 @@
-html, body, main, #app, #app>div {
+html, body, main, .body, #app, #app>div {
     background-color: aliceblue;
   }
+
 .cont{
-    height: 80%;
-    width: 100%;
     background-color: aliceblue;
+}
+.name {
+    margin-top: 2rem;
+    margin-left: 40%;
+    font-size: 46px;
+    text-decoration: underline;
 }
 .aboutContainer{
     display: flex;
-    height: 80%;
-    margin-bottom: 14%;
+    margin-top: 2rem;
 }
 .imgContainer{
     margin-top: 2%;
@@ -27,7 +31,7 @@ html, body, main, #app, #app>div {
     box-shadow:3px 3px 5px rgba(0,0,0,.8);
 }
 .aboutMeContainer{
-    margin-top: 2%;
+    margin-top: 8rem;
     display: inline;
     width: 50%;
     margin-left:2%;
@@ -41,4 +45,7 @@ p{
     text-align: center;
     margin-left: 2%;
     margin-right: 2%;
+}
+h6{
+    text-align: center;
 }

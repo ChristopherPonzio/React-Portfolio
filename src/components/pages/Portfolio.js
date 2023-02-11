@@ -24,8 +24,9 @@ function Portfolio() {
         },
         {
             name: 'kineticTickets',
-            link: "https://evening-tor-60812.herokuapp.com/",
-            repo: "https://github.com/mblackwellgca/Kinetic-Tickets"
+            link: "",
+            repo: "https://github.com/mblackwellgca/Kinetic-Tickets",
+            note: "Due to updates in Heroku the demo for this Project has been removed."
         },
         {
             name: 'Git-There',
@@ -34,13 +35,15 @@ function Portfolio() {
         },
         {
             name: 'Easter-Egg',
-            link: "https://shrouded-anchorage-72534.herokuapp.com",
-            repo: "https://github.com/ChristopherPonzio/Easter-Egg"
+            link: "",
+            repo: "https://github.com/ChristopherPonzio/Easter-Egg",
+            note: "Due to updates in Heroku the demo for this Project has been removed."
         },
         {
             name: 'Tech-Blog',
             link: "https://cryptic-castle-12751.herokuapp.com",
-            repo: "https://github.com/ChristopherPonzio/Tech-Blog"
+            repo: "https://github.com/ChristopherPonzio/Tech-Blog",
+            note: "Due to updates in Heroku the demo for this Project has been removed."
         },
         {
             name: 'Password-Generator',
@@ -50,7 +53,8 @@ function Portfolio() {
         {
             name: 'Note-Taker',
             link: "https://stark-dawn-28882.herokuapp.com",
-            repo: "https://github.com/ChristopherPonzio/noteTaker"
+            repo: "https://github.com/ChristopherPonzio/noteTaker",
+            note: "Due to updates in Heroku the demo for this Project has been removed."
         },
         {
             name: 'Weather-Dashboard',

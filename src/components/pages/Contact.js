@@ -27,6 +27,7 @@ function Contact() {
         e.preventDefault();
         if (!errorMessage) {
             console.log('Submit Form', formState);
+            
         }
     };
 
@@ -58,7 +59,8 @@ function Contact() {
                     <div className="col-lg-10 mx-auto mb-4">
                     <h1 className="text-center">{capitalizeFirstLetter(currentPage.name)}</h1>
                         <hr className="light my-4" />
-                        <form id="contact-form" onSubmit={handleSubmit} className="mb-5">
+                        <form id="contact-form" className="mb-5"  method="post" action="mailto:cponzio@gmail.com">
+                        
                             <div className="input">
                                 <label htmlFor="name">Name:</label>
                                 <input
