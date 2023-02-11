@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.c9216c80.css",
+    "main.js": "/React-Portfolio/static/js/main.0585cc4d.js",
+    "static/media/Git-There.jpg": "/React-Portfolio/static/media/Git-There.3de799006b960f1f0f78.jpg",
+    "static/media/kineticTickets.jpg": "/React-Portfolio/static/media/kineticTickets.218f50260b9d12e4f007.jpg",
+    "static/media/Note-Taker.jpg": "/React-Portfolio/static/media/Note-Taker.4e4eccc4700ff0202858.jpg",
+    "static/media/profilePic.jpg": "/React-Portfolio/static/media/profilePic.6f4e67f4a71ede6bed1c.jpg",
+    "static/media/Easter-Egg.jpg": "/React-Portfolio/static/media/Easter-Egg.fbf51c158d32ed821666.jpg",
+    "static/media/React-Portfolio.jpg": "/React-Portfolio/static/media/React-Portfolio.f151cf6bc80ec508cee1.jpg",
+    "static/media/DashboardGrades.jpg": "/React-Portfolio/static/media/DashboardGrades.bbbe5eaa9e5ccd3780b3.jpg",
+    "static/media/2020profilepic.jpg": "/React-Portfolio/static/media/2020profilepic.5f679932001bf514de36.jpg",
+    "static/media/Canvas-Schedule.jpg": "/React-Portfolio/static/media/Canvas-Schedule.f3ff782175a30deca951.jpg",
+    "static/media/Weather-Dashboard.jpg": "/React-Portfolio/static/media/Weather-Dashboard.597751451cdb0ddc7ee2.jpg",
+    "static/media/Tech-Blog.jpg": "/React-Portfolio/static/media/Tech-Blog.d0a8e42175137535be08.jpg",
+    "static/media/Coding-Quiz.jpg": "/React-Portfolio/static/media/Coding-Quiz.6ff86d561fb10370ce36.jpg",
+    "static/media/Canvas-class-cancel.jpg": "/React-Portfolio/static/media/Canvas-class-cancel.67ea5b4ee66481de0caf.jpg",
+    "static/media/Password-Generator.jpg": "/React-Portfolio/static/media/Password-Generator.f8afea3bd80908089e95.jpg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.c9216c80.css.map": "/React-Portfolio/static/css/main.c9216c80.css.map",
+    "main.0585cc4d.js.map": "/React-Portfolio/static/js/main.0585cc4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9216c80.css",
+    "static/js/main.0585cc4d.js"
+  ]
+}
