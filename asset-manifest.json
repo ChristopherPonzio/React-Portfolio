@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.c9216c80.css",
-    "main.js": "/React-Portfolio/static/js/main.0585cc4d.js",
+    "main.css": "/React-Portfolio/static/css/main.dc909559.css",
+    "main.js": "/React-Portfolio/static/js/main.a359b457.js",
     "static/media/Git-There.jpg": "/React-Portfolio/static/media/Git-There.3de799006b960f1f0f78.jpg",
+    "static/media/Group-It.jpg": "/React-Portfolio/static/media/Group-It.27876181622daf11bebe.jpg",
     "static/media/kineticTickets.jpg": "/React-Portfolio/static/media/kineticTickets.218f50260b9d12e4f007.jpg",
     "static/media/Note-Taker.jpg": "/React-Portfolio/static/media/Note-Taker.4e4eccc4700ff0202858.jpg",
     "static/media/profilePic.jpg": "/React-Portfolio/static/media/profilePic.6f4e67f4a71ede6bed1c.jpg",
@@ -17,11 +18,11 @@
     "static/media/Canvas-class-cancel.jpg": "/React-Portfolio/static/media/Canvas-class-cancel.67ea5b4ee66481de0caf.jpg",
     "static/media/Password-Generator.jpg": "/React-Portfolio/static/media/Password-Generator.f8afea3bd80908089e95.jpg",
     "index.html": "/React-Portfolio/index.html",
-    "main.c9216c80.css.map": "/React-Portfolio/static/css/main.c9216c80.css.map",
-    "main.0585cc4d.js.map": "/React-Portfolio/static/js/main.0585cc4d.js.map"
+    "main.dc909559.css.map": "/React-Portfolio/static/css/main.dc909559.css.map",
+    "main.a359b457.js.map": "/React-Portfolio/static/js/main.a359b457.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9216c80.css",
-    "static/js/main.0585cc4d.js"
+    "static/css/main.dc909559.css",
+    "static/js/main.a359b457.js"
   ]
 }
